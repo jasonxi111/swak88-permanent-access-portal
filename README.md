@@ -1,30 +1,31 @@
 <p align="center">
-  <img src="assets/swak88-logo.png" alt="SWAK88 Logo" width="180">
+  <img src="assets/swak88-logo.png" alt="SWAK88 Philippines Logo" width="180">
 </p>
 
-<h1 align="center">SWAK88 在线娱乐主管导航</h1>
+<h1 align="center">SWAK88 Philippines Access Directory</h1>
 
 <p align="center">
-  本页面用于查询 SWAK88 主网址和备用访问地址。<br>
-  建议收藏本页，网址变更后会及时更新。
+  Official access directory for SWAK88 online entertainment in the Philippines.<br>
+  Bookmark this page to find the main website and the latest backup links.
 </p>
 
-## 最新访问地址
+## Latest Access Links
 
-| 类型 | 地址 | 状态 |
+| Access point | Link | Status |
 | --- | --- | --- |
-| 主网址 | **[点击进入 SWAK88](https://swak88.com?startapp=6jV4Hq)** | 正常 |
-| 备用地址 1 | 暂未启用 | 待更新 |
-| 备用地址 2 | 暂未启用 | 待更新 |
+| Main website | **[Open SWAK88 Philippines](https://swak88.com?startapp=6jV4Hq)** | Online |
+| Backup link 1 | Coming soon | Not active |
+| Backup link 2 | Coming soon | Not active |
 
-## 永久导航页
+## Permanent Access Page
 
 **[https://swak88.homes](https://swak88.homes)**
 
-主网址无法打开时，请返回本页面或访问永久导航页查询最新地址。
+If the main website does not open, return to this directory or visit the
+permanent access page to check the latest working address.
 
-> 请认准本页面公布的网址，不要通过来历不明的链接访问。
+> For your security, only use links listed on this page.
 
 ---
 
-最后更新：2026-06-10
+Last updated: June 10, 2026
